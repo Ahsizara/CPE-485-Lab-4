@@ -1,0 +1,6 @@
+Thur Nov. 23rd
+==========================================
+-Still trying to get particle filter working
+-The current way I check for sonar wall distance measurements  is not working
+-I will abondan current method (check x,y, dist) and put in line intersection method
+-Need to see if sampling rate is an issue
